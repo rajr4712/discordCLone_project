@@ -1,4 +1,5 @@
 My Dicord clone website are hosted by netlify App, 
-just cick and take a look at this....
+
+You can look into my project by click of this link
 
 https://rahul-discord-clone-project.netlify.app
